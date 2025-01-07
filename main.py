@@ -15,10 +15,10 @@ IOU_THRESHOLD = 0.5
 MODEL_NAME = "yolov8x.pt"
 MODEL_RESOLUTION = 1280
 SOURCE = np.array([
-    [348,110],
-    [650, 118],
-    [590, 529],
-    [-40, 532]
+    [230.4,102.8],
+    [665.6, 102.8],
+    [614.4, 360],
+    [-51.2, 360]
 ])
 
 TARGET_WIDTH = 7.8
